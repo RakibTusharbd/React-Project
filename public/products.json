@@ -1,0 +1,39 @@
+[
+    {
+      "_id": "6427e2c45d3f2aaa77f02ff7",
+      "img": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg",
+      "picture2": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "date": "Mar 14 (4 Days ago)",
+      "name": "Donovan Hahn",
+      "minutes":"03 min red"
+      
+    },
+    {
+      "_id": "6427e2c40aa9097a4ffad87b",
+      "img": "https://beadgrup.com/news/wp-content/uploads/2021/02/Gambar-Programmer-Professional.jpg",
+      "picture2": "https://media.istockphoto.com/id/1059661424/photo/mature-mixed-race-business-man.jpg?s=612x612&w=0&k=20&c=UAVBeyoD_LkCh1MzVaWW1SR1iwK-VkPDXWMH2o2wL8M=",
+      "title": "How to get your first job as a self-taught programmer",
+      "date":"May 18 (8 Days ago)",
+      "name": "Black Hensley",
+      "minutes":"09 min red"
+    },
+    {
+      "_id": "6427e2c4106718451178d1a4",
+      "img": "https://media.istockphoto.com/id/1461318936/photo/brazilian-female-programmer-working-on-computer-at-home-brilliant-female-it-programer-using.jpg?b=1&s=170667a&w=0&k=20&c=jjBWyFMFCjkNEIHVWTOj3qsKuJ5xVsyalclWyxZe7gc=",
+      "picture2": "https://img.freepik.com/free-photo/man-wearing-t-shirt-gesturing_23-2149393645.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "date":"Feb 28 (6 Days ago)",
+      "name": "Andrea Deleon",
+      "minutes":"13 min red"
+    },
+    {
+      "_id": "6427e2c4ae8c8c0ecba66339",
+      "img": "https://as2.ftcdn.net/v2/jpg/03/10/13/39/1000_F_310133904_c1MwVB5kaY2EepoOVxLUR3uTFGgCRI3t.jpg",
+      "picture2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44GEBI3itkGmqDQH2nEgzkTvwISd_ONOwkg&usqp=CAU",
+      "title": "How to get your first job as a self-taught programmer",
+      "date":"Julay 15 (2 Days ago)",
+      "name": "Powell Robbins",
+      "minutes":"23 min red"
+    }
+  ]
